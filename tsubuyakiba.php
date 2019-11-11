@@ -1,8 +1,8 @@
 <?php
-  define('DB_USER', '○○○○');
-  define('DB_PASSWD', '○○○○');
-  define('DB_HOST', '○○○○');
-  define('DB_NAME', '○○○○');
+  define('DB_USER', 'yuya1225_wp1');
+  define('DB_PASSWD', '8zqbm2ap');
+  define('DB_HOST', 'mysql7042.xserver.jp');
+  define('DB_NAME', 'yuya1225_learning');
   define('HTML_CHARCTER_SET', 'UTF-8');
   define('DB_CHARACTER_SET', 'UTF8');
 
